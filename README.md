@@ -65,6 +65,8 @@ python main.py --invoice_path data/invoices/invoice_1001.txt
 
 If an invoice requires human review, the agent pauses and prints a message. Open the UI (see above) to make a decision.
 
+Note that I created an additional invoice (invoice_1017.txt) to test the scenario of an unknown vendor.
+
 ---
 
 ### Run all invoices in a directory
