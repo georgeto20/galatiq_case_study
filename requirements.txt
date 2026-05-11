@@ -1,0 +1,6 @@
+langchain-openai==0.3.35
+langchain-core==0.3.86
+langgraph==0.6.11
+openai==2.36.0
+pymupdf==1.25.1
+streamlit==1.50.0
